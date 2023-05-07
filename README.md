@@ -1,6 +1,6 @@
 
 Dinosaur Game
-![Alt Text]('readme-img.png')
+![Alt Text](readme-img.png)
 
 
 A simple web-based game where a dinosaur needs to navigate through obstacles by jumping. The game is built using JavaScript, HTML, and CSS.
