@@ -6,13 +6,21 @@ Dinosaur Game
 A simple web-based game where a dinosaur needs to navigate through obstacles by jumping. The game is built using JavaScript, HTML, and CSS.
 
 Table of Contents
+
 Introduction
+
 Game Controls
+
 Installation
+
 Usage
+
 Contributing
+
 License
+
 Introduction
+
 The Dinosaur Game is inspired by the popular offline game in the Google Chrome browser. The objective of the game is to control a running dinosaur and help it avoid incoming obstacles by jumping over them. The game progressively gets faster, making it more challenging to achieve a high score.
 
 Game Controls
